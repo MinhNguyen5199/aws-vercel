@@ -66,16 +66,6 @@ const Footer = () => {
             </a>
           </div>
         </div>
-        <Link href="https://bolt.new/" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block">
-            <Image
-              src="/badge.png"
-              alt="Badge"
-              width={100}
-              height={100}
-              className="w-20 h-20 sm:w-20 sm:h-20 md:w-30 md:h-30 object-contain"
-              priority
-            />
-          </Link>
       </div>
     </footer>
   );
